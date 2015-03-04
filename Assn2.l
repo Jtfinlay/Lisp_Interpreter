@@ -1,3 +1,7 @@
+; James Finlay 1263258
+; CMPUT 325 - LEC B1
+; Assignment # 2
+
 ;Main function to run interpreter.
 ;Reference the class notes for man.
 ;E: Expression
